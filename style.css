@@ -1,0 +1,15 @@
+.navbar{
+    background-color:rgb(96, 81, 148) !important;
+}
+.nav-link{
+    color: honeydew !important;
+    font-weight: bold;
+}
+
+.cart1,.cart2,.cart3{
+    
+    border: 2px solid grey;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
